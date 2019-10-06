@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohmuiyaih.aninibikini.com/sitemap.xml
